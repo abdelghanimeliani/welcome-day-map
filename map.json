@@ -198,7 +198,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/chat.csml.dev\/channels\/evk8eh2785fnihwdtnetcb7mjur9zcgi"
+                 "value":"https:\/\/chat.csml.dev\/s\/g9dgmhtbzh9psln8oqg6ulzyu0mzrnc6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2078,7 +2078,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":170,
+ "nextlayerid":171,
  "nextobjectid":68,
  "orientation":"orthogonal",
  "properties":[
